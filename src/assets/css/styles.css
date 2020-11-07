@@ -104,8 +104,8 @@ body{
     transition: 300ms all;
 }
 
-#menu a:hover{
-    color: #f54242;
+#menu a:hover, .active{
+    color: #f54242 !important;
 }
 
 /* slider css */
